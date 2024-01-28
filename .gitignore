@@ -33,3 +33,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+db/schema.rb
+db/migrate/20240128074752_add_column_article.rb
+db/migrate/20240128075038_drop_article.rb
+db/migrate/20240128075315_create_articles.rb
